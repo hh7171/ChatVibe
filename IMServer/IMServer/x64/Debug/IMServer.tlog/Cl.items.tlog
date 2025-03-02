@@ -1,0 +1,9 @@
+E:\VS2\IMServer\CKernel.cpp;E:\VS2\IMServer\IMServer\x64\Debug\CKernel.obj
+E:\VS2\IMServer\IMServer.cpp;E:\VS2\IMServer\IMServer\x64\Debug\IMServer.obj
+E:\VS2\IMServer\mediator\TcpClientMediator.cpp;E:\VS2\IMServer\IMServer\x64\Debug\TcpClientMediator.obj
+E:\VS2\IMServer\mediator\TcpServerMediator.cpp;E:\VS2\IMServer\IMServer\x64\Debug\TcpServerMediator.obj
+E:\VS2\IMServer\mediator\UdpMediator.cpp;E:\VS2\IMServer\IMServer\x64\Debug\UdpMediator.obj
+E:\VS2\IMServer\MySQL\CMySql.cpp;E:\VS2\IMServer\IMServer\x64\Debug\CMySql.obj
+E:\VS2\IMServer\net\TcpClientNet.cpp;E:\VS2\IMServer\IMServer\x64\Debug\TcpClientNet.obj
+E:\VS2\IMServer\net\TcpServerNet.cpp;E:\VS2\IMServer\IMServer\x64\Debug\TcpServerNet.obj
+E:\VS2\IMServer\net\UdpNet.cpp;E:\VS2\IMServer\IMServer\x64\Debug\UdpNet.obj
